@@ -1,7 +1,7 @@
 export default function Page() {
     return <>
-        <div className="flex items-center content-center justify-center flex-col h-full mt-20 w-full">
-            <div className="border-2 border-current w-1/2 p-10 rounded h-[29rem] overflow-auto">
+        <div className="md:mt-20 mt-10 md:mb-10 mb-28 mx-5 md:flex md:justify-center">
+            <div className="border-2 border-current w-full md:w-1/2 p-10 rounded">
                 <p className="font-bold text-xl">About Me</p>
                 <p>I'm passionate about building innovative software solutions that solve real-world problems and improve people's lives. With a background in computer science and several years of industry experience, I thrive in dynamic environments where I can collaborate with talented teams to deliver high-quality software products.</p>
                 <p className="font-bold">Technical Expertise</p>
