@@ -7,5 +7,5 @@ export const BOTTOM_BAR_ITEMS = [
     { icon: <HiHome size={ICON_SIZE} />, pathname: '/' },
     { icon: <FaPerson size={ICON_SIZE} />, pathname: '/about' },
     { icon: <FaTasks size={ICON_SIZE} />, pathname: '/project' },
-    { icon: <FaRegPaperPlane size={ICON_SIZE} />, pathname: '/' },
+    { icon: <FaRegPaperPlane size={ICON_SIZE} />, pathname: '/contact' },
 ]
