@@ -2,7 +2,7 @@ import Image from "next/image";
 import { ProjectCardProps } from "../types/project-card";
 export default function ProjectCard(props: ProjectCardProps) {
     return <>
-        <div className="border-2 rounded border-current w-full">
+        <div className="border-2 rounded border-current w-full bg-white cursor-pointer hover:shadow-2xl">
             <Image src={props.img} alt={props.title} width={500} height={500} />
             <div className="p-5">
                 <p className="text font-bold">{props.title}</p>

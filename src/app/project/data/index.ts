@@ -112,4 +112,17 @@ export default [
       },
     ],
   },
+  {
+    title: "Keselah",
+    img: "/images/ss/keselah.png",
+    desc: "Keselah is a web app that is used to record payment/billing of tuition fees, cash, and savings for students",
+    icons: [
+      {
+        srcImg: "/icon/laravel.png",
+        alt: "laravel",
+        width: 30,
+        height: 30,
+      },
+    ],
+  },
 ];
