@@ -13,6 +13,7 @@ export default function Page() {
                     </div>
                     <ul className="list-disc ml-4 text-sm">
                         <li>Meet with client for solve the problem and report work progress</li>
+                        <li>Become the lead or pic project to handle and deliver to client</li>
                         <li>Building any web-based application according to client request</li>
                         <li>Maintance existing system from client</li>
                         <li>Uses PHP, Laravel, VueJs,Mysql,Eloquent to maximise the development speed and user experience of the web-based application</li>
