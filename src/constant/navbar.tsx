@@ -4,6 +4,10 @@ export const NAVBAR_ITEMS = [
         pathname: "/about"
     },
     {
+        title: "Experience",
+        pathname: "/experience"
+    },
+    {
         title: "Project",
         pathname: "/project"
     },
@@ -11,4 +15,5 @@ export const NAVBAR_ITEMS = [
         title: "Contact",
         pathname: "/contact"
     }
+
 ]

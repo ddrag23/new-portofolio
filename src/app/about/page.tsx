@@ -3,7 +3,7 @@ export default function Page() {
         <div className="md:mt-20 mt-10 md:mb-10 mb-28 mx-5 md:flex md:justify-center">
             <div className="border-2 border-current w-full md:w-1/2 p-10 rounded bg-white">
                 <p className="font-bold text-xl">About Me</p>
-                <p>I'm passionate about building innovative software solutions that solve real-world problems and improve people's lives. With a background in computer science and several years of industry experience, I thrive in dynamic environments where I can collaborate with talented teams to deliver high-quality software products.</p>
+                <p>I'm passionate about building innovative software solutions that solve real-world problems and improve people's lives. With a background in computer science and several years of industry experience, I thrive in dynamic environments where I can collaborate with talented teams to deliver high-quality software products. I have experience as a fullstack developer for 3 years at a software house company and i us.</p>
                 <p className="font-bold">Technical Expertise</p>
                 <p>I have a strong foundation in software development, with expertise in:</p>
                 <ul>

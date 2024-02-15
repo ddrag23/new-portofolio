@@ -4,7 +4,7 @@ export const DEFAULT_METADATA = {
   description:
     "Personal website and Showcase of my projects, thoughts and skills on website development.",
   keyword:
-    "alwi, al baidhowi, learn nextjs, learn javascript, learn typescript, learn laravel",
+    "alwi, al,,baidhowi, learn nextjs, learn javascript, learn typescript, learn laravel, alwi ngoding,ngoding, code",
   siteName: "alwi.cahkoding.my.id",
   url: "https://alwi.cahkoding.my.id/",
   image: "/metalImage.svg",
